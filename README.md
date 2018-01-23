@@ -23,15 +23,9 @@ This software is a Visualization Platform for Augmented Reality to visualize dat
 ### 3D Graph Toolkit
  * Scatter Plot
  * Multi Dimensional
+
 *State of the Academy*
 
 ## Model Visualization
  * Importing and modifying construction of models
  * Providing a barebone menu for interaction
-
-# Timeline:
-Week 1
-Week 2
-Week 3
-Week 4
-Week 5
