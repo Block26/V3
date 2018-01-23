@@ -9,9 +9,11 @@ This software is a Visualization Platform for Augmented Reality to visualize dat
 ### Geospatial
  * Population
  * Weather
-### Node Graph Vis
+### Force Directed Graphs
 ### 3D Graph Toolkit
  * Scatter Plot
+ * Bar Charts
+ * Pie Charts (Sphere Charts)
  * Multi Dimensional
 
 *State of the Academy*
