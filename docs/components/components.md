@@ -8,3 +8,7 @@
 
 ![Core 2D/3D Menu](https://github.com/varuneagle555/VisLab/blob/master/docs/components/images/core_2D-3D.jpg "Core Multi Menu")
 ![Core 3D Menu](https://github.com/varuneagle555/VisLab/blob/master/docs/components/images/core_3D.jpg "Core Single Menu")
+
+## Plugins
+### Geospatial
+![TerraVis](https://github.com/varuneagle555/VisLab/blob/master/docs/components/images/terravis.png "TerraVis")
