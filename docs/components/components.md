@@ -37,5 +37,5 @@ TerraVis
     * *Select Feautures for Description*
 
 Applications
-    * Weather
-    * Satellite Vis
+* Weather
+* Satellite Vis
