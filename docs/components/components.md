@@ -7,4 +7,4 @@
 * Drag modules to Core to delete from Scene
 
 ![Core 2D/3D Menu](https://github.com/varuneagle555/VisLab/blob/master/docs/components/images/core_2D-3D.jpg "Core Multi Menu")
-![Core 3D Menu](/images/core_3D.jpg)
+![Core 3D Menu](https://github.com/varuneagle555/VisLab/blob/master/docs/components/images/core_3D.jpg "Core Single Menu")
