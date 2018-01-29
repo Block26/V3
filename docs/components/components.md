@@ -10,7 +10,7 @@
 ![Core 3D Menu](https://github.com/varuneagle555/VisLab/blob/master/docs/components/images/core_3D.png "Core Single Menu")
 
 ## Plugins
-### Geospatial
+### Terravis
 ![TerraVis](https://github.com/varuneagle555/VisLab/blob/master/docs/components/images/terravis.png "TerraVis")
 
 *File Format*: GeoJSON
@@ -19,7 +19,6 @@ Single Load File (Streamed Data - Future Goal)
 
 *Components*
 
-TerraVis
 * Stage
     * Data Menu
         * Load Data
@@ -38,4 +37,5 @@ TerraVis
 
 Applications
 * Weather
-* Satellite Vis
+* Satellite Visualization
+* Air traffic data
