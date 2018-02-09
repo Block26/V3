@@ -2,20 +2,17 @@
 
 public class GlobeControl : MonoBehaviour
 {
-    public float x;
-    public float y;
-    public float z;
-    public GameObject obj;
+    private Vector3 ROTATION_VECTOR = new Vector3(0, 0.1f, 0);
 
-    private Vector3 position;
+    private Transform transform;
 
     void Start()
     {
-        position = new Vector3(x, y, z);
+        transform = this.GetComponent<Transform>();
     }
 
     void Update()
     {
-        position = new Vector3(x, y, z);   
+        transform.Rotate(ROTATION_VECTOR); 
     }
 }

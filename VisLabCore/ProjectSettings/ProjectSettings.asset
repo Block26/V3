@@ -639,7 +639,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: VMedia
   metroCertificateIssuer: VMedia
-  metroCertificateNotAfter: 8092fd34e9b4d401
+  metroCertificateNotAfter: 806259d51fbcd401
   metroApplicationDescription: Test
   wsaImages:
     65636: 
