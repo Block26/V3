@@ -11,6 +11,7 @@ public class EarthPoint : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+
+    }
+    //Implement translation of scene coordinates to Earth coordinates
 }
